@@ -1,5 +1,5 @@
 # platonov
-use python3
+install packets!
 ```
 pip3 install requests
 ```
